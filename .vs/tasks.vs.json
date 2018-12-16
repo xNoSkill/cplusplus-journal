@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "Task-first-program",
+      "appliesTo": "first-program.cpp",
+      "type": "launch"
+    },
+    {
+      "taskName": "Task-cplusplus-journal",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskName": "Task-cplusplus-journal",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

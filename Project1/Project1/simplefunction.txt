@@ -1,0 +1,25 @@
+#include <iostream>
+
+
+int doubleNumber(int a)
+{
+	return 2 * a;
+}
+ 
+
+int halbierNumber(int b)
+{
+	return b / 2;
+}
+
+int main()
+{
+	std::cout << "Bitte Nummer eingeben:";
+	int a;
+	std::cin >> a;
+	std::cout << doubleNumber(a) << std::endl;
+	int b = 2 * a;
+	std::cout << halbierNumber(b) << std::endl;
+	return 0;
+}
+

@@ -1,0 +1,33 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "cppdbg",
+      "name": "C:\\Users\\User\\Documents\\GitHub\\cplusplus-journal",
+      "project": "",
+      "cwd": "${workspaceRoot}",
+      "program": "${debugInfo.target}",
+      "processId": 0,
+      "MIMode": "gdb",
+      "miDebuggerPath": "${env.MINGW_PREFIX}\\bin\\gdb.exe",
+      "externalConsole": true
+    },
+    {
+      "type": "cppdbg",
+      "name": "C:\\Users\\User\\Documents\\GitHub\\cplusplus-journal(1)",
+      "project": "",
+      "cwd": "${workspaceRoot}",
+      "program": "${debugInfo.target}",
+      "processId": 0,
+      "MIMode": "gdb",
+      "miDebuggerPath": "${env.MINGW_PREFIX}\\bin\\gdb.exe",
+      "externalConsole": true
+    },
+    {
+      "type": "mixed",
+      "name": "C:\\Users\\User\\Documents\\GitHub\\cplusplus-journal(2)",
+      "project": ""
+    }
+  ]
+}
